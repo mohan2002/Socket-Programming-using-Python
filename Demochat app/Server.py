@@ -41,7 +41,7 @@ def client():
 
 
 
-choice = input()
+choice = input("Choose Server or Client:")
 
 if choice == "server" or choice == "Server":
     server()
