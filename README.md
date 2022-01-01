@@ -1,4 +1,4 @@
-﻿## Socket-Programming-using-python
+## Socket-Programming-using-python
 
 #TCP Stream sockets
 
