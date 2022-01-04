@@ -1,7 +1,7 @@
 import socket
 
 clientsocket = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
-clientsocket.connect(("192.168.43.246",8081))
+clientsocket.connect(("192.168.43.146",8081))
 
 def get_text(clientsocket):
     buffer = ""
